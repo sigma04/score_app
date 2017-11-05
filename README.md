@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+作业2：在 ruby rails 框架中实现数据库基本增删查改，在网页上显示。
 
-Things you may want to cover:
+网页点击[*这里*](https://dashboard.heroku.com/apps)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
